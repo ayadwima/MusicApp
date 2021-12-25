@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/chat_private"
+        android:icon="@drawable/ic_chat_black_24dp"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/chat_group"
+        android:icon="@drawable/group"
+        android:iconTint="#A4A4A5"
+        android:title="@string/title_dashboard" />
+
+
+
+</menu>
